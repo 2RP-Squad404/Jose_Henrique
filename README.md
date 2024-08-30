@@ -3,3 +3,5 @@
 > - [Git](https://github.com/JsHenri/dvcs-cvcs-e-git/blob/main/README.md)
 > - [09/08](reports/09_08.md)
 > - [14/08](reports/14_08.md)
+> - [Tarefa1](Tarefas/tarefa1.json)
+> - [Tarefa2](Tarefas/tarefa2.json)
